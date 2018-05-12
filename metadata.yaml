@@ -1,0 +1,32 @@
+_repo: Perhe-Giljell-Kuvaus-nelj-nnelt--vuosikymmenelt-_35522
+_version: 0.1.0
+alternative_title: Familien på Gilje. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lie, Jonas
+    alias: Lie, Jonas Lauritz Idemil
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '5095'
+    url: http://www.gutenberg.org/2009/agents/5095
+    wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
+description: ''
+gutenberg_issued: '2011-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35522'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Norway -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Women -- Social conditions -- Fiction'
+title: 'Perhe Giljellä: Kuvaus neljänneltä vuosikymmeneltä'
+url: http://www.gutenberg.org/ebooks/35522
